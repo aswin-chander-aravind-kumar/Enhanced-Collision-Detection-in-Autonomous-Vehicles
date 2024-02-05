@@ -1,5 +1,4 @@
-# DeepSORT_YOLOv5_Pytorch
-
+# Enhanced Collision Detection in Autonomous Vehicles
 ## Prepare 
 1 Create a virtual environment with Python >=3.8  
 ~~~
